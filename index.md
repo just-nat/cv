@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en" dir="ltr">
 
 <head>
@@ -9,7 +9,7 @@
 <body>
   <table cellspacing ="20">
     <tr>
-      <td><img src="images/IMG_9557.jpg" alt="me and my love" width="100" height="auto"></td>
+      <td><img src="IMG_9557.jpg" alt="me and my love" width="100" height="auto"></td>
       <td>  <h1>Nat Thomson</h1>
         <p> <a href="https//:www.codecademy.com"><em>Nobody</em></a></p>
         <p>I have nothing of note to say about myself</p></td>
