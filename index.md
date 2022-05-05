@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title> Nat's Personal Site</title>
+</head>
+
+<body>
+  <table cellspacing ="20">
+    <tr>
+      <td><img src="images/IMG_9557.jpg" alt="me and my love" width="100" height="auto"></td>
+      <td>  <h1>Nat Thomson</h1>
+        <p> <a href="https//:www.codecademy.com"><em>Nobody</em></a></p>
+        <p>I have nothing of note to say about myself</p></td>
+    </tr>
+  </table>
+
+  <hr>
+  <h3>Education</h3>
+  <ul>
+    <li>nowhere</li>
+    <li>absolutely nowhere</li>
+    <ul>
+      <li>nothing</li>
+      <li>more nothing</li>
+    </ul>
+  </ul>
+  <hr>
+  <h3>Fake Work Experience</h3>
+<table cellspacing = "10">
+  <thead>
+    <th>Fake Date</th>
+    <th>What I Didn't Not Do</th>
+  </thead>
+  <tr>
+    <td>1800-1820</td>
+    <td>nothing, i wasn't alive</td>
+  </tr>
+  <tr>
+    <td>2022</td>
+    <td>nothing but in a warehouse</td>
+  </tr>
+</table>
+<hr>
+<h3>My Lack of Skills</h3>
+<table cellspacing = '10'>
+  <tr>
+    <td><table>
+      <tr>
+        <td>watch repair</td>
+        <td>💩💩💩</td>
+      </tr>
+      <tr>
+        <td>upside-down water-skiing</td>
+        <td>💩💩💩💩💩</td>
+      </tr>
+      <tr>
+        <td>nothing</td>
+        <td>💩💩💩</td>
+      </tr>
+    </table></td>
+<td><table>
+  <tr>
+    <td>car unmaintenance</td>
+    <td>💩💩💩💩💩</td>
+  </tr>
+  <tr>
+    <td>chinchilla juggling</td>
+    <td>💩💩💩</td>
+  </tr>
+  <tr>
+    <td>more nothing</td>
+    <td>💩💩💩💩💩</td>
+  </tr>
+</table></td>
+  </tr>
+</table>
+
+    <hr>
+    <a href="hobbies.html">hobbies</a>
+    <p><a href="contact-me.html">contact me for no reason whatsoever</a></p>
+
+
+</body>
+
+</html>
